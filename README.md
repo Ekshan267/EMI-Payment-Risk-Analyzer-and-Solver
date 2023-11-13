@@ -37,9 +37,9 @@ The Random Forest Classifier, configured with the specified hyperparameters, rep
 
 ## Demo Video and Presentation
 
-You can find a demo video showcasing the project's functionality [here]([#insert_demo_video_link](https://drive.google.com/file/d/1kur5EPmB5tilb4H6BdsZ2sZTK-8Roy03/view?usp=sharing)).
+You can find a demo video showcasing the project's functionality [here](https://drive.google.com/file/d/1kur5EPmB5tilb4H6BdsZ2sZTK-8Roy03/view?usp=sharing).
 
-A presentation summarizing the project can be accessed [here]([#insert_presentation_link](https://docs.google.com/presentation/d/1e52ZE5xzNgqiKXe1dARr4F6Jx_Q4kUhX/edit?usp=sharing&ouid=118043978360514977350&rtpof=true&sd=true)).
+A presentation summarizing the project can be accessed [here](https://docs.google.com/presentation/d/1e52ZE5xzNgqiKXe1dARr4F6Jx_Q4kUhX/edit?usp=sharing&ouid=118043978360514977350&rtpof=true&sd=true).
 
 Feel free to explore the Jupyter Notebook for the code and details of the project. If you have any questions or need further information, please reach out to the project contributors.
 
